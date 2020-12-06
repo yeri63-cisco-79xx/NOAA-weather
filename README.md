@@ -1,2 +1,2 @@
 # NOAA-weather
-Local weather app for Cisco IP Phone.
+Local weather using NOAA supplied weather information from nearby airport.
